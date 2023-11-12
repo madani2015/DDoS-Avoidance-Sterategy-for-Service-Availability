@@ -1,0 +1,34 @@
+G:\programming\my project\C#\UPM\performance - DDOS\test\bin\Debug\test.exe.config
+G:\programming\my project\C#\UPM\performance - DDOS\test\bin\Debug\test.exe
+G:\programming\my project\C#\UPM\performance - DDOS\test\bin\Debug\test.pdb
+G:\programming\my project\C#\UPM\performance - DDOS\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\programming\my project\C#\UPM\performance - DDOS\test\obj\Debug\test.Form1.resources
+G:\programming\my project\C#\UPM\performance - DDOS\test\obj\Debug\test.Properties.Resources.resources
+G:\programming\my project\C#\UPM\performance - DDOS\test\obj\Debug\test.csproj.GenerateResource.Cache
+G:\programming\my project\C#\UPM\performance - DDOS\test\obj\Debug\test.exe
+G:\programming\my project\C#\UPM\performance - DDOS\test\obj\Debug\test.pdb
+G:\programming\my project\C#\UPM\performance - DDOS\test\bin\Debug\NPOI.dll
+G:\programming\my project\C#\UPM\performance - DDOS\test\bin\Debug\Ionic.Zip.dll
+G:\programming\my project\C#\UPM\performance - DDOS\test\bin\Debug\NPOI.xml
+G:\lesson\upm\performance\performance - DDOS\test\bin\Debug\test.exe.config
+G:\lesson\upm\performance\performance - DDOS\test\bin\Debug\test.exe
+G:\lesson\upm\performance\performance - DDOS\test\bin\Debug\test.pdb
+G:\lesson\upm\performance\performance - DDOS\test\bin\Debug\Ionic.Zip.dll
+G:\lesson\upm\performance\performance - DDOS\test\bin\Debug\NPOI.xml
+G:\lesson\upm\performance\performance - DDOS\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+G:\lesson\upm\performance\performance - DDOS\test\obj\Debug\test.Form1.resources
+G:\lesson\upm\performance\performance - DDOS\test\obj\Debug\test.Properties.Resources.resources
+G:\lesson\upm\performance\performance - DDOS\test\obj\Debug\test.csproj.GenerateResource.Cache
+G:\lesson\upm\performance\performance - DDOS\test\obj\Debug\test.exe
+G:\lesson\upm\performance\performance - DDOS\test\obj\Debug\test.pdb
+F:\d\test\bin\Debug\test.exe.config
+F:\d\test\bin\Debug\test.exe
+F:\d\test\bin\Debug\test.pdb
+F:\d\test\bin\Debug\Ionic.Zip.dll
+F:\d\test\bin\Debug\NPOI.xml
+F:\d\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+F:\d\test\obj\Debug\test.Form1.resources
+F:\d\test\obj\Debug\test.Properties.Resources.resources
+F:\d\test\obj\Debug\test.csproj.GenerateResource.Cache
+F:\d\test\obj\Debug\test.exe
+F:\d\test\obj\Debug\test.pdb

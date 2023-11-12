@@ -1,0 +1,47 @@
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\performance - DDOS.exe.config
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\performance - DDOS.exe
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\performance - DDOS.pdb
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.csprojResolveAssemblyReference.cache
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.exe
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.pdb
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\Troschuetz.Random.dll
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\Troschuetz.Random.xml
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\de\Troschuetz.Random.resources.dll
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\es\Troschuetz.Random.resources.dll
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\fr\Troschuetz.Random.resources.dll
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\NPOI.dll
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\Ionic.Zip.dll
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\bin\Debug\NPOI.xml
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\obj\Debug\performance___DDOS.Form1.resources
+G:\programming\my project\C#\UPM\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.csproj.GenerateResource.Cache
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\performance - DDOS.exe.config
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.exe
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.pdb
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\performance - DDOS.exe
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\performance - DDOS.pdb
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\Ionic.Zip.dll
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\NPOI.xml
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\Troschuetz.Random.xml
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\de\Troschuetz.Random.resources.dll
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\es\Troschuetz.Random.resources.dll
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\bin\Debug\fr\Troschuetz.Random.resources.dll
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.csprojResolveAssemblyReference.cache
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\obj\Debug\performance___DDOS.Form1.resources
+G:\lesson\upm\performance\performance - DDOS\performance - DDOS\obj\Debug\performance - DDOS.csproj.GenerateResource.Cache
+C:\Users\maryam\Desktop\d\performance - DDOS\bin\Debug\performance - DDOS.exe.config
+C:\Users\maryam\Desktop\d\performance - DDOS\obj\Debug\performance - DDOS.exe
+C:\Users\maryam\Desktop\d\performance - DDOS\obj\Debug\performance - DDOS.pdb
+F:\d\performance - DDOS\bin\Debug\performance - DDOS.exe.config
+F:\d\performance - DDOS\obj\Debug\performance - DDOS.exe
+F:\d\performance - DDOS\obj\Debug\performance - DDOS.pdb
+F:\d\performance - DDOS\bin\Debug\performance - DDOS.exe
+F:\d\performance - DDOS\bin\Debug\performance - DDOS.pdb
+F:\d\performance - DDOS\bin\Debug\Ionic.Zip.dll
+F:\d\performance - DDOS\bin\Debug\NPOI.xml
+F:\d\performance - DDOS\bin\Debug\Troschuetz.Random.xml
+F:\d\performance - DDOS\bin\Debug\de\Troschuetz.Random.resources.dll
+F:\d\performance - DDOS\bin\Debug\es\Troschuetz.Random.resources.dll
+F:\d\performance - DDOS\bin\Debug\fr\Troschuetz.Random.resources.dll
+F:\d\performance - DDOS\obj\Debug\performance - DDOS.csprojResolveAssemblyReference.cache
+F:\d\performance - DDOS\obj\Debug\performance___DDOS.Form1.resources
+F:\d\performance - DDOS\obj\Debug\performance - DDOS.csproj.GenerateResource.Cache
